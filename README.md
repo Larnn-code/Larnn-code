@@ -47,14 +47,18 @@ Currently evolving into the world of **AI Agents** and intelligent automation.
     <img src="https://img.shields.io/badge/GitHub-LARNN--CODE-0D1117?style=for-the-badge&logo=github&logoColor=8B0000" />
   </a>
 
-  <a href="https://www.linkedin.com/in/rhian-willey-787393408/">
+  <a 
+   href="https://www.linkedin.com/in/rhian-willey-787393408/">
     <img src="https://img.shields.io/badge/LinkedIn-RHIAN%20WILLEY-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B0000" />
   </a>
 
-  <a href="https://instagram.com/Rhian_willey_">
+  <a
+   href="https://instagram.com/Rhian_willey_">
     <img src="https://img.shields.io/badge/Instagram-@RHIAN__WILLEY__-0D1117?style=for-the-badge&logo=instagram&logoColor=8B0000" />
+    
   </a>
-  <a href="mailto:Rhianwilleyps@gmail.com">
+  <a 
+   href="mailto:Rhianwilleyps@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-RHIANWILLEYPS@GMAIL.COM-0D1117?style=for-the-badge&logo=gmail&logoColor=8B0000" />
   </a>
 </p>
