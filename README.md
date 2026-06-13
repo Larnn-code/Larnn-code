@@ -96,12 +96,10 @@ Currently evolving into the world of **AI Agents** and intelligent automation.
 
 ---
 
-## 🌌 Currently Studying
-
-- 🧠 AI Agents & intelligent automation
-- 📊 Data analysis & business intelligence
-- 🐍 Advanced Python for automation
-- 🔄 Workflow integrations & bots
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -117,7 +115,5 @@ Currently evolving into the world of **AI Agents** and intelligent automation.
 <div align="center">
 
 # 𒉭
-
-> _"I don't just write code. I build systems that execute."_
 
 </div>
