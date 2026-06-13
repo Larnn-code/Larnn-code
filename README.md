@@ -97,7 +97,6 @@ Currently evolving into the world of **AI Agents** and intelligent automation.
 ---
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Larnn-code&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larnn-code&layout=compact&theme=tokyonight" />
 </p>
 
